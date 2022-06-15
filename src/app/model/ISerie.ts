@@ -1,7 +1,7 @@
-export interface IFilme{
+export interface ISerie{
     nome: string;
     lancamento: string;
-    duracao: string;
+    temporadas: string;
     classificacao: number;
     cartaz: string;
     generos: string[];
